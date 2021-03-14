@@ -1,6 +1,6 @@
-# Site web
+# GitHub Stephan FOLIO
 
-[Portfolio](http://stephanfolio.fr/)
+[Portfolio en cours de développement 👀] (<a href="http://stephanfolio.fr/" target="_blank">http://stephanfolio.fr/</a>)
 
 <h1 align="center">Bonjour 👋,</h1>
 <h3 align="center">Je suis un Développeur Web avec une connaissance en front-end et back-end.</h3>
