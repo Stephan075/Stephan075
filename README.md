@@ -1,4 +1,4 @@
-# GitHub Stephan FOLIO
+# GITHUB Stephan FOLIO
 
 [Portfolio en cours de développement 👀] (<a href="http://stephanfolio.fr/" target="_blank">http://stephanfolio.fr/</a>)
 
