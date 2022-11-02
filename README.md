@@ -1,6 +1,6 @@
 # GITHUB Stephan FOLIO
 
-[Portfolio en cours de développement 👀] (<a href="[http://stephanfolio.fr/](https://stephanfolio.netlify.app)" target="_blank">stephanfolio./</a>)
+[Portfolio en cours de développement 👀] (<a href="[https://stephanfolio.netlify.app" target="_blank">stephanfolio</a>)
 
 <h1 align="center">Bonjour 👋,</h1>
 <h3 align="center">Je suis Développeur Web avec une connaissance en front-end et back-end.</h3>
